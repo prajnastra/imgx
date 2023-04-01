@@ -1,2 +1,2 @@
-# imxX
+# imgX
 Simple image manipulation tool
